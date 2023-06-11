@@ -8,7 +8,7 @@
 
 ### Demo Screeshots
 
-![form](.github/preview.png "Desktop Demo")
+![Jogo da adivinhação](.github/preview.png "Desktop Demo")
 
 ### About
 
@@ -22,7 +22,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Explore sem limites** locally, run this command on your git bash:
+To run **Jogo da adivinhação** locally, run this command on your git bash:
 
 Linux and macOS:
 
